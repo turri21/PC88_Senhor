@@ -2,6 +2,8 @@
 
 Tested: Working Video 720p, 1080p & Sound.
 
+Dev notes: Disk not working on some boards. (Fix: Clocks swapped) 
+
 ___
 # [NEC PC8801](https://en.wikipedia.org/wiki/PC88) for [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
