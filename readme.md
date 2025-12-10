@@ -1,3 +1,11 @@
+-=(PC88_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+Dev notes: NOW IT WORKS--Disk not working on some boards. (Fix: Clocks swapped) 
+
+___
+
 # [NEC PC8801](https://en.wikipedia.org/wiki/PC88) for [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 This is the port of the [PC8801 MKII SR](http://fpga8801.seesaa.net/category/21233167-1.html) core by Puu-san.
@@ -65,3 +73,4 @@ You could check and change the write protection of D88 file using this applicati
 - Add support of tapes
 - Add support of other models like PC8801MC
 - ...
+
