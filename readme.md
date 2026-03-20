@@ -2,7 +2,7 @@
 
 Tested: Working Video 720p, 1080p & Sound.
 
-Dev notes: Disk not working on some boards. (Fix: Clocks swapped in sys.tcl ) 
+Dev notes: NOT NEEDED in current version -Disk not working on some boards. (Fix: Clocks swapped in sys.tcl )- 
 
 ___
 
