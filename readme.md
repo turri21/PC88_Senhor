@@ -2,7 +2,9 @@
 
 Tested: Working Video 720p, 1080p & Sound.
 
-Dev notes: NOT NEEDED in current version -Disk not working on some boards. (Fix: Clocks swapped in sys.tcl )- 
+Dev notes: Use Quartus v23.1 to synthesize it.  
+
+NOT NEEDED in current version -Disk not working on some boards. (Fix: Clocks swapped in sys.tcl )- 
 
 ___
 
