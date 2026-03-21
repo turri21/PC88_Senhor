@@ -1,3 +1,13 @@
+-=(PC88_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+Dev notes: Use Quartus v23.1 to synthesize it.  
+
+NOT NEEDED in current version -Disk not working on some boards. (Fix: Clocks swapped in sys.tcl )- 
+
+___
+
 # [NEC PC8801](https://en.wikipedia.org/wiki/PC88) for [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 This is the port of the [PC8801 MKII SR](http://fpga8801.seesaa.net/category/21233167-1.html) core by Puu-san.
